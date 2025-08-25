@@ -15,7 +15,7 @@
 ---
 
 ### 📂 Мои проекты
-- 🔗 
+- 🔗 https://github.com/koskarina2002-max/Forecast-of-price-dynamics-of-the-agro-industrial-complex.git
 
 ---
 
