@@ -18,7 +18,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| 🔗 [Pricing in the Agro-Industrial Complex]([https://github.com/Karina/retail-sales-analysis](https://github.com/koskarina2002-max/Forecast-of-price-dynamics-of-the-agro-industrial-complex.git)) | Анализ и прогноз данных цен продуктов АПК| Python, Pandas, Numpy, Plotly |
+| 🔗 [Pricing in the Agro-Industrial Complex](https://github.com/koskarina2002-max/Forecast-of-price-dynamics-of-the-agro-industrial-complex.git) | Анализ и прогноз данных цен продуктов АПК| Python, Pandas, Numpy, Matplotlib, Plotly |
 
 ---
 
