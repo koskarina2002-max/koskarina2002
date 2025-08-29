@@ -22,6 +22,7 @@
 | 🔗 [Telecom Customer Churn Prediction](https://github.com/koskarina2002-max/Telecommunications) | Модель машинного обучения для прогнозирования оттока клиентов телеком-компании | Python, Scikit-learn, XGBoost, LightGBM, CatBoost |
 | 🔗 [Toxic Comments Classification](https://github.com/koskarina2002-max/Toxic-Comments-Classification) | Mодель для классификации токсичных комментариев и автоматизации модерации | Python, Scikit-learn, NLTK, WordCloud |
 | 🔗 [Taxi Orders Forecasting](https://github.com/koskarina2002-max/Forecasting-the-number-of-taxi-orders) | Прогнозирование количества заказов такси на следующий час с использованием временных рядов | Seasonal Decompose, LinearRegression, RandomForestRegressor, CatBoost, TimeSeriesSplit |
+| 🔗 [Car Price Prediction](https://github.com/koskarina2002-max/Determining-the-cost-of-cars/tree/main) | Построение модели для прогнозирования рыночной стоимости автомобиля на основе его характеристик | Python, NumPy, RandomizedSearchCV, Scikit-learn, LightGBM, DecisionTreeRegressor |
 
 ---
 
